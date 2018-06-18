@@ -1,0 +1,7 @@
+c:\users\core i5\source\repos\LuckyDraw\LuckyDraw\bin\Debug\LuckyDraw.exe.config
+c:\users\core i5\source\repos\LuckyDraw\LuckyDraw\bin\Debug\LuckyDraw.exe
+c:\users\core i5\source\repos\LuckyDraw\LuckyDraw\bin\Debug\LuckyDraw.pdb
+c:\users\core i5\source\repos\LuckyDraw\LuckyDraw\obj\Debug\LuckyDraw.csprojResolveAssemblyReference.cache
+c:\users\core i5\source\repos\LuckyDraw\LuckyDraw\obj\Debug\LuckyDraw.csproj.CoreCompileInputs.cache
+c:\users\core i5\source\repos\LuckyDraw\LuckyDraw\obj\Debug\LuckyDraw.exe
+c:\users\core i5\source\repos\LuckyDraw\LuckyDraw\obj\Debug\LuckyDraw.pdb
