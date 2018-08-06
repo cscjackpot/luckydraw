@@ -55,12 +55,12 @@ namespace LuckyDraw
                             if (lstResultNumber.Count < 5)
                             {
                                 test = test % NumberBall;
+                                if (test == 0)
+                                {
+                                    test = NumberBall;
+                                }
                                 if (!lstResultNumber.Contains(test))
                                 {
-                                    if (test == 0)
-                                    {
-                                        test = NumberBall;
-                                    }
                                     lstResultNumber.Add(test);
                                 }
                             }
